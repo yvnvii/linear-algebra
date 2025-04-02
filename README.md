@@ -1,2 +1,2 @@
 # linear-algebra
-neural network for linear algebra assignment
+neural network explanatory animation for linear algebra assignment
